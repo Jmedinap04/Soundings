@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Atmospheric Radiosonde Data Analysis with Python.
+message: >-
+  Collection of tools used to handle all the steps for the
+  download and analysis of radiosoundings.
+type: software
+authors:
+  - given-names: Joaquín
+    family-names: Medina Puntero
+    name-particle: Joaquín
+    email: jmedinap04@outlook.es
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.15857824
+repository-code: 'https://github.com/Jmedinap04/Soundings'
+license: MIT
+version: v1.0.0
+date-released: '2025-07-10'
